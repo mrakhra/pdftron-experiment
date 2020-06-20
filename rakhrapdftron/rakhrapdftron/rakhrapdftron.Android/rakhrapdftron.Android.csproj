@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -88,7 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\rakhrapdftron\rakhrapdftron.csproj">
-      <Project>{ECC5CDBB-CA0E-4FEC-B21C-879CDEB6B973}</Project>
+      <Project>{848C4670-2D8B-4921-A8C2-C1E5329C7017}</Project>
       <Name>rakhrapdftron</Name>
     </ProjectReference>
   </ItemGroup>

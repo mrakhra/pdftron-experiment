@@ -568,8 +568,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\manbir.rakhra\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {},
+    "C:\\Users\\manbirrakhra\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -578,15 +578,15 @@
       "projectUniqueName": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.csproj",
       "projectName": "rakhrapdftron",
       "projectPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.csproj",
-      "packagesPath": "C:\\Users\\manbir.rakhra\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\manbirrakhra\\.nuget\\packages\\",
       "outputPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet",
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\manbir.rakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\manbirrakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -595,7 +595,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -636,7 +635,8 @@
           "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

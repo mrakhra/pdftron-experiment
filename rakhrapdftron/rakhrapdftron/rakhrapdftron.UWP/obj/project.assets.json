@@ -4843,7 +4843,7 @@
       ]
     },
     "PDFTron.UWP/7.0.3.73128": {
-      "sha512": "JSENDuxB8jcj+dxVYqrvxU46xH+89dvaf6rkQxdNWzl0EQlOepR0MjnwcI4BcRHJinuZa6MgjYT5C6er9WUw6g==",
+      "sha512": "5iAZSNG5Nkrfkxi0fwrVzj9+2Ei/KksADmQZ/hON7LbvyEQOeGPCavs6OpW4/1SS6+bW0gcSRLsXAUiVAuoPkA==",
       "type": "package",
       "path": "pdftron.uwp/7.0.3.73128",
       "files": [
@@ -8513,9 +8513,9 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\manbir.rakhra\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages": {}
+    "C:\\Users\\manbirrakhra\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -8523,16 +8523,16 @@
       "projectUniqueName": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.UWP\\rakhrapdftron.UWP.csproj",
       "projectName": "rakhrapdftron.UWP",
       "projectPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.UWP\\rakhrapdftron.UWP.csproj",
-      "packagesPath": "C:\\Users\\manbir.rakhra\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\manbirrakhra\\.nuget\\packages\\",
       "outputPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet",
-        "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\manbir.rakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\manbirrakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -8541,7 +8541,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

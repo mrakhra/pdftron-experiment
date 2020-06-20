@@ -1,0 +1,1094 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.Interfaces>
+    <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
+  </Roots.Interfaces>
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="TemplateSettings" />
+    <RootPropertyPathName Name="HiddenVerticalDelta" />
+    <RootPropertyPathName Name="MinimalVerticalDelta" />
+    <RootPropertyPathName Name="CompactVerticalDelta" />
+    <RootPropertyPathName Name="ClipRect" />
+    <RootPropertyPathName Name="ShowInkToolbar" />
+    <RootPropertyPathName Name="IsMainAppBarOpen" />
+    <RootPropertyPathName Name="CanSaveInk" />
+    <RootPropertyPathName Name="InkToolbarCommand" />
+    <RootPropertyPathName Name="CanRedoInk" />
+    <RootPropertyPathName Name="InkPresetButtonCommand" />
+    <RootPropertyPathName Name="CurrentPresetLabel" />
+    <RootPropertyPathName Name="PresetBrush2" />
+    <RootPropertyPathName Name="PresetBrush1" />
+    <RootPropertyPathName Name="PresetBrush0" />
+    <RootPropertyPathName Name="ShowPolygonSaveToolbar" />
+    <RootPropertyPathName Name="CanSavePolygon" />
+    <RootPropertyPathName Name="PolygonSaveToolbarCommand" />
+    <RootPropertyPathName Name="ToolButtonClickedCommand" />
+    <RootPropertyPathName Name="CurrentTool" />
+    <RootPropertyPathName Name="Annotations" />
+    <RootPropertyPathName Name="PageHeader" />
+    <RootPropertyPathName Name="AuthorAndContent" />
+    <RootPropertyPathName Name="AnnotationSymbol" />
+    <RootPropertyPathName Name="AnnotationGroups" />
+    <RootPropertyPathName Name="FoundAnnotations" />
+    <RootPropertyPathName Name="ItemClickCommand" />
+    <RootPropertyPathName Name="SelectedItem" />
+    <RootPropertyPathName Name="NewColorSelected" />
+    <RootPropertyPathName Name="NewColorAcceptCommand" />
+    <RootPropertyPathName Name="NewColorCancelCommand" />
+    <RootPropertyPathName Name="AddNewColorOptions" />
+    <RootPropertyPathName Name="PreviewType" />
+    <RootPropertyPathName Name="PrimaryBrush" />
+    <RootPropertyPathName Name="Opacity" />
+    <RootPropertyPathName Name="SecondaryBrush" />
+    <RootPropertyPathName Name="FontSize" />
+    <RootPropertyPathName Name="Thickness" />
+    <RootPropertyPathName Name="ItemWidth" />
+    <RootPropertyPathName Name="IsSeparator" />
+    <RootPropertyPathName Name="IsOption" />
+    <RootPropertyPathName Name="SelectedStatus" />
+    <RootPropertyPathName Name="Option" />
+    <RootPropertyPathName Name="DataContext" />
+    <RootPropertyPathName Name="SizeChangedCommand" />
+    <RootPropertyPathName Name="Items" />
+    <RootPropertyPathName Name="AssociatedTool" />
+    <RootPropertyPathName Name="PresetColorTarget" />
+    <RootPropertyPathName Name="HasFontSize" />
+    <RootPropertyPathName Name="MinFontSize" />
+    <RootPropertyPathName Name="MaxFontSize" />
+    <RootPropertyPathName Name="FontSizeInternal" />
+    <RootPropertyPathName Name="HasFontName" />
+    <RootPropertyPathName Name="FontNameViewModel" />
+    <RootPropertyPathName Name="SelectedFontNameItem" />
+    <RootPropertyPathName Name="FontNameItems" />
+    <RootPropertyPathName Name="DisplayName" />
+    <RootPropertyPathName Name="HasOpacity" />
+    <RootPropertyPathName Name="HasThickness" />
+    <RootPropertyPathName Name="MinOpacity" />
+    <RootPropertyPathName Name="MaxOpacity" />
+    <RootPropertyPathName Name="OpacityInternal" />
+    <RootPropertyPathName Name="MinThickness" />
+    <RootPropertyPathName Name="MaxThickness" />
+    <RootPropertyPathName Name="ThicknessInternal" />
+    <RootPropertyPathName Name="HasIcons" />
+    <RootPropertyPathName Name="IconButtonViewModel" />
+    <RootPropertyPathName Name="SecondaryCustomColorOption" />
+    <RootPropertyPathName Name="PrimaryCustomColorOption" />
+    <RootPropertyPathName Name="HasMultipleTabs" />
+    <RootPropertyPathName Name="PresetColorTargetCommand" />
+    <RootPropertyPathName Name="PrimaryColorTypeIcon" />
+    <RootPropertyPathName Name="ColorBrush" />
+    <RootPropertyPathName Name="IsSelected" />
+    <RootPropertyPathName Name="IsEmptyOption" />
+    <RootPropertyPathName Name="PointerContactCommand" />
+    <RootPropertyPathName Name="CustomColors" />
+    <RootPropertyPathName Name="CustomMaxColumns" />
+    <RootPropertyPathName Name="SelectedForegroundColor" />
+    <RootPropertyPathName Name="ShowSelected" />
+    <RootPropertyPathName Name="ShowDelete" />
+    <RootPropertyPathName Name="IsAddRemoveButton" />
+    <RootPropertyPathName Name="AddOrRemoveContent" />
+    <RootPropertyPathName Name="MySelf" />
+    <RootPropertyPathName Name="IsColorOption" />
+    <RootPropertyPathName Name="PresetsColors" />
+    <RootPropertyPathName Name="PresetsMaxColumns" />
+    <RootPropertyPathName Name="FontSizeButtonViewModel" />
+    <RootPropertyPathName Name="OpacityButtonViewModel" />
+    <RootPropertyPathName Name="ThicknessButtonViewModel" />
+    <RootPropertyPathName Name="SecondaryColorOption" />
+    <RootPropertyPathName Name="PrimaryColorOption" />
+    <RootPropertyPathName Name="AreSubViewSelectionButtonsVisible" />
+    <RootPropertyPathName Name="PresetOrCustomCommand" />
+    <RootPropertyPathName Name="ActiveSubView" />
+    <RootPropertyPathName Name="PointerPressedForegroundBrush" />
+    <RootPropertyPathName Name="PointerPressedBackgroundBrush" />
+    <RootPropertyPathName Name="PointerOverForegroundBrush" />
+    <RootPropertyPathName Name="PointerOverBackgroundBrush" />
+    <RootPropertyPathName Name="AuthorNameCancelPressedCommand" />
+    <RootPropertyPathName Name="DoesAuthorNameHaveContent" />
+    <RootPropertyPathName Name="AuthorNameOkPressedCommand" />
+    <RootPropertyPathName Name="AuthorName" />
+    <RootPropertyPathName Name="AuthorNameKeyUpCommand" />
+    <RootPropertyPathName Name="AuthorNameChangedCommand" />
+    <RootPropertyPathName Name="IsIndicatorVisible" />
+    <RootPropertyPathName Name="IndicatorTappedCommand" />
+    <RootPropertyPathName Name="TotalPagesText" />
+    <RootPropertyPathName Name="TextBoxWidth" />
+    <RootPropertyPathName Name="PageNumberTextLostFocusCommand" />
+    <RootPropertyPathName Name="PageNumberTextChangedCommand" />
+    <RootPropertyPathName Name="PageNumberTextKeyUpCommand" />
+    <RootPropertyPathName Name="PageNumberTextKeyDownCommand" />
+    <RootPropertyPathName Name="IsEditTextVisible" />
+    <RootPropertyPathName Name="EditText" />
+    <RootPropertyPathName Name="TotalPageNumberDigits" />
+    <RootPropertyPathName Name="SelectionLength" />
+    <RootPropertyPathName Name="CurrentPageNumberText" />
+    <RootPropertyPathName Name="ShowMultiplePageCropMessage" />
+    <RootPropertyPathName Name="CurrMultiplePageCrop" />
+    <RootPropertyPathName Name="ApplyCropCommand" />
+    <RootPropertyPathName Name="MultiplePagesCropCommand" />
+    <RootPropertyPathName Name="IsApplyOddPagesEnabled" />
+    <RootPropertyPathName Name="IsPageForwardEnabled" />
+    <RootPropertyPathName Name="PageForwardCommand" />
+    <RootPropertyPathName Name="CurrCropItem" />
+    <RootPropertyPathName Name="Page" />
+    <RootPropertyPathName Name="IsPageBackEnabled" />
+    <RootPropertyPathName Name="PageBackCommand" />
+    <RootPropertyPathName Name="HasImage" />
+    <RootPropertyPathName Name="Source" />
+    <RootPropertyPathName Name="CloseCommand" />
+    <RootPropertyPathName Name="IsOpen" />
+    <RootPropertyPathName Name="MagnifiedPDFViewCtrl" />
+    <RootPropertyPathName Name="IsMagnifying" />
+    <RootPropertyPathName Name="MagnifyCommand" />
+    <RootPropertyPathName Name="CanNavigate" />
+    <RootPropertyPathName Name="NavigationButtonCommand" />
+    <RootPropertyPathName Name="ToolButtonCommand" />
+    <RootPropertyPathName Name="CanRedo" />
+    <RootPropertyPathName Name="UndoRedoCommand" />
+    <RootPropertyPathName Name="CanUndo" />
+    <RootPropertyPathName Name="InkButtonCommand" />
+    <RootPropertyPathName Name="IsNextButtonEnabled" />
+    <RootPropertyPathName Name="NavigationCommand" />
+    <RootPropertyPathName Name="IsPrevButtonEnabled" />
+    <RootPropertyPathName Name="HasReflowedContent" />
+    <RootPropertyPathName Name="GetReflowProgressText" />
+    <RootPropertyPathName Name="DragItemsCount" />
+    <RootPropertyPathName Name="Content" />
+    <RootPropertyPathName Name="ExportSelectedPagesCommand" />
+    <RootPropertyPathName Name="DeleteCommand" />
+    <RootPropertyPathName Name="RotateCommand" />
+    <RootPropertyPathName Name="ListViewItemWidth" />
+    <RootPropertyPathName Name="ListViewItemHeight" />
+    <RootPropertyPathName Name="IsCurrentPage" />
+    <RootPropertyPathName Name="DefaultBackground" />
+    <RootPropertyPathName Name="UniformScale" />
+    <RootPropertyPathName Name="Angle" />
+    <RootPropertyPathName Name="IsConverting" />
+    <RootPropertyPathName Name="IsSelectButtonVisible" />
+    <RootPropertyPathName Name="AddPageCommand" />
+    <RootPropertyPathName Name="AddImageCommand" />
+    <RootPropertyPathName Name="AddPDFCommand" />
+    <RootPropertyPathName Name="InsertPageCommand" />
+    <RootPropertyPathName Name="HasSelectedItems" />
+    <RootPropertyPathName Name="InsertImageCommand" />
+    <RootPropertyPathName Name="InsertPDFCommand" />
+    <RootPropertyPathName Name="ThumbnailsList" />
+    <RootPropertyPathName Name="ReadOnly" />
+    <RootPropertyPathName Name="SelectionMode" />
+    <RootPropertyPathName Name="IsInEditMode" />
+    <RootPropertyPathName Name="SelectionChangedCommand" />
+    <RootPropertyPathName Name="EditCommand" />
+    <RootPropertyPathName Name="DoneEditingCommand" />
+    <RootPropertyPathName Name="IsEditing" />
+    <RootPropertyPathName Name="BookmarkItemButtonClickedCommand" />
+    <RootPropertyPathName Name="BookmarkName" />
+    <RootPropertyPathName Name="IsSelectedButNotEditing" />
+    <RootPropertyPathName Name="AddButtonVisibility" />
+    <RootPropertyPathName Name="AddBookmarkCommand" />
+    <RootPropertyPathName Name="BookmarkList" />
+    <RootPropertyPathName Name="SelectedBookmark" />
+    <RootPropertyPathName Name="ListViewItemClickCommand" />
+    <RootPropertyPathName Name="FontName" />
+    <RootPropertyPathName Name="FontItems" />
+    <RootPropertyPathName Name="CancelFontListCommand" />
+    <RootPropertyPathName Name="SaveFontListCommand" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationToolbarBase">
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.ResourceDictionary">
+      <RootProperty Name="MergedDictionaries" />
+      <RootProperty Name="ThemeDictionaries" />
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.SolidColorBrush">
+      <RootProperty Name="Color" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.BooleanToBackgroundColorConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.InverseBooleanConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.ToolTypeToBooleanConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.BooleanToVisibilityConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.BooleanToOpacityConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.ReverseBooleanToOpacityConverter" />
+    <RootType FullName="System.Double" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.EntranceAnimationContentControl">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="EntranceAnimation" />
+      <RootProperty Name="ExitAnimation" />
+      <RootProperty Name="IsOpen" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="RenderTransform" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Opacity" />
+      <RootEvent Name="SizeChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Control">
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="VerticalContentAlignment" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="UseSystemFocusVisuals" />
+      <RootProperty Name="Template" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="TabNavigation" />
+      <RootMethod Name="GetIsTemplateFocusTarget" />
+      <RootMethod Name="SetIsTemplateFocusTarget" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.Resources.AppBarTabButton">
+      <RootProperty Name="PointerOverBackgroundBrush" />
+      <RootProperty Name="PointerOverForegroundBrush" />
+      <RootProperty Name="PointerPressedBackgroundBrush" />
+      <RootProperty Name="PointerPressedForegroundBrush" />
+      <RootProperty Name="PropertiesIndicator" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Tag" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="IsCompact" />
+      <RootProperty Name="LabelOpacity" />
+      <RootProperty Name="Label" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.FrameworkElement">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Tag" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.EnumToStyleConverter">
+      <RootProperty Name="NotMatchedStyle" />
+      <RootProperty Name="MatchedStyle" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.InverseBooleanToVisibilityConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="VerticalContentAlignment" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Template" />
+      <RootProperty Name="UseSystemFocusVisuals" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Flyout" />
+      <RootProperty Name="BorderBrush" />
+      <RootEvent Name="Click" />
+      <RootEvent Name="Loaded" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.Storyboard">
+      <RootProperty Name="Children" />
+      <RootProperty Name="Duration" />
+      <RootMethod Name="GetTargetName" />
+      <RootMethod Name="SetTargetName" />
+      <RootMethod Name="GetTargetProperty" />
+      <RootMethod Name="SetTargetProperty" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBar">
+      <RootProperty Name="ClosedDisplayMode" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="VerticalContentAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="IsOpen" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="MaxHeight" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="TextAlignment" />
+      <RootProperty Name="TextTrimming" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="SelectionHighlightColor" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Inlines" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Setter">
+      <RootProperty Name="Property" />
+      <RootProperty Name="Value" />
+      <RootProperty Name="Target" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ControlTemplate">
+      <RootProperty Name="TargetType" />
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Clip" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootProperty Name="RenderTransform" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="MaxWidth" />
+      <RootProperty Name="CornerRadius" />
+      <RootEvent Name="SizeChanged" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+      <RootMethod Name="GetColumnSpan" />
+      <RootMethod Name="SetColumnSpan" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+      <RootMethod Name="GetRowSpan" />
+      <RootMethod Name="SetRowSpan" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualStateManager">
+      <RootMethod Name="GetVisualStateGroups" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.TemplateBindingExtension" />
+    <RootType FullName="Windows.UI.Xaml.VisualStateGroup">
+      <RootProperty Name="States" />
+      <RootProperty Name="Transitions" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualTransition">
+      <RootProperty Name="From" />
+      <RootProperty Name="To" />
+      <RootProperty Name="GeneratedDuration" />
+      <RootProperty Name="Storyboard" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.ObjectAnimationUsingKeyFrames">
+      <RootProperty Name="KeyFrames" />
+      <RootProperty Name="Duration" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DoubleAnimationUsingKeyFrames">
+      <RootProperty Name="KeyFrames" />
+      <RootProperty Name="Duration" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DiscreteDoubleKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.SplineDoubleKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="KeySpline" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="RelativeSource" />
+      <RootProperty Name="Path" />
+      <RootProperty Name="Converter" />
+      <RootProperty Name="Mode" />
+      <RootProperty Name="ConverterParameter" />
+      <RootProperty Name="Source" />
+      <RootProperty Name="ElementName" />
+      <RootProperty Name="FallbackValue" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.RelativeSource">
+      <RootProperty Name="Mode" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DiscreteObjectKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualState">
+      <RootProperty Name="Storyboard" />
+      <RootProperty Name="StateTriggers" />
+      <RootProperty Name="Setters" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.RectangleGeometry">
+      <RootProperty Name="Rect" />
+      <RootProperty Name="Transform" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.TranslateTransform">
+      <RootProperty Name="Y" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="MaxWidth" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentControl">
+      <RootProperty Name="Content" />
+      <RootProperty Name="ContentTemplate" />
+      <RootProperty Name="ContentTransitions" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="VerticalContentAlignment" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="IsHitTestVisible" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Shapes.Rectangle">
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Stroke" />
+      <RootProperty Name="StrokeThickness" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="StrokeEndLineCap" />
+      <RootProperty Name="StrokeDashArray" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="StrokeDashOffset" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="RenderTransform" />
+      <RootProperty Name="RadiusX" />
+      <RootProperty Name="RadiusY" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.FontIcon">
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Glyph" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="MirroredWhenRightToLeft" />
+      <RootProperty Name="UseLayoutRounding" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Style" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DoubleAnimation">
+      <RootProperty Name="Duration" />
+      <RootProperty Name="To" />
+      <RootProperty Name="EasingFunction" />
+      <RootEvent Name="Completed" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.QuarticEase">
+      <RootProperty Name="EasingMode" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.PointerDownThemeAnimation">
+      <RootProperty Name="TargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.PointerUpThemeAnimation" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentPresenter">
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="ContentTransitions" />
+      <RootProperty Name="ContentTemplate" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="VerticalContentAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Automation.AutomationProperties">
+      <RootMethod Name="GetAccessibilityView" />
+      <RootMethod Name="SetAccessibilityView" />
+      <RootMethod Name="GetItemType" />
+      <RootMethod Name="SetItemType" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="MinHeight" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBarButton">
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="Icon" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="Label" />
+      <RootProperty Name="IsCompact" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="IsEnabled" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ToolTipService">
+      <RootMethod Name="GetToolTip" />
+      <RootMethod Name="SetToolTip" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ToolTip" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.FlyoutBase">
+      <RootMethod Name="GetAttachedFlyout" />
+      <RootMethod Name="SetAttachedFlyout" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Flyout">
+      <RootProperty Name="Placement" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationCommandBar" />
+    <RootType FullName="Windows.UI.Xaml.Controls.UserControl">
+      <RootProperty Name="Name" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.CollectionViewSource">
+      <RootProperty Name="IsSourceGrouped" />
+      <RootProperty Name="ItemsPath" />
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListViewHeaderItem" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.LinearDoubleKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Border">
+      <RootProperty Name="Child" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="CornerRadius" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="Clip" />
+      <RootProperty Name="RenderTransform" />
+      <RootProperty Name="RenderTransformOrigin" />
+      <RootEvent Name="RightTapped" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.AdaptiveTrigger">
+      <RootProperty Name="MinWindowWidth" />
+      <RootProperty Name="MinWindowHeight" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="IsItemClickEnabled" />
+      <RootProperty Name="SelectionMode" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="GroupStyle" />
+      <RootProperty Name="ItemContainerStyle" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="ShowsScrollingPlaceholders" />
+      <RootProperty Name="CanReorderItems" />
+      <RootProperty Name="CanDragItems" />
+      <RootProperty Name="AllowDrop" />
+      <RootProperty Name="ItemsPanel" />
+      <RootProperty Name="ItemContainerTransitions" />
+      <RootEvent Name="ItemClick" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.ItemClickCommand">
+      <RootMethod Name="GetCommand" />
+      <RootMethod Name="SetCommand" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressRing">
+      <RootProperty Name="IsActive" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Foreground" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.GroupStyle">
+      <RootProperty Name="HidesIfEmpty" />
+      <RootProperty Name="HeaderTemplate" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListViewItem" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationList" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationPropertiesSubControls.CustomColorGrid">
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationPropertiesSubControls.AddNew">
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.EnumToVisibilityConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.DoubleToThicknessConverter" />
+    <RootType FullName="Windows.UI.Xaml.CornerRadius" />
+    <RootType FullName="Windows.UI.Xaml.Shapes.Path">
+      <RootProperty Name="Stroke" />
+      <RootProperty Name="StrokeThickness" />
+      <RootProperty Name="Data" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="StrokeEndLineCap" />
+      <RootProperty Name="StrokeStartLineCap" />
+      <RootProperty Name="StrokeLineJoin" />
+      <RootProperty Name="Fill" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Stretch" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="RenderTransform" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationPropertiesSubControls.AnnotationPreviewControl">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.Resources.TabButton">
+      <RootProperty Name="PointerOverBackgroundBrush" />
+      <RootProperty Name="PointerPressedBackgroundBrush" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="PointerOverForegroundBrush" />
+      <RootProperty Name="PointerPressedForegroundBrush" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Tag" />
+      <RootProperty Name="PropertiesIndicator" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="CornerRadius" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.IconToCustomUnicodeConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.SizeChangedCommand">
+      <RootMethod Name="GetCommand" />
+      <RootMethod Name="SetCommand" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsControl">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="ItemsPanel" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsPanelTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationPropertiesSubControls.ButtonControl">
+      <RootProperty Name="DataContext" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.RatioToPercentageConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.RatioToPercentageLabelConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.DoubleToPointLabelConverter">
+      <RootProperty Name="DecimalPlaces" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.ReverseEnumToVisibilityConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.ThicknessToHalfPointConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.BooleanToMaxWidthConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.InverseBooleanToIntParameterConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Slider">
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Minimum" />
+      <RootProperty Name="Maximum" />
+      <RootProperty Name="Value" />
+      <RootProperty Name="StepFrequency" />
+      <RootProperty Name="IsThumbToolTipEnabled" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="ManipulationMode" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="SmallChange" />
+      <RootProperty Name="LargeChange" />
+      <RootProperty Name="TickPlacement" />
+      <RootEvent Name="ManipulationCompleted" />
+      <RootEvent Name="ValueChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.UIElement">
+      <RootProperty Name="ManipulationMode" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="IsHoldingEnabled" />
+      <RootProperty Name="Opacity" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.Thumb">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.TickBar">
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBox">
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="ItemTemplate" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationPropertiesSubControls.IconControl">
+      <RootProperty Name="DataContext" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationPropertiesSubControls.Custom">
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.Resources.CheckerGrid">
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="NumberOfColumns" />
+      <RootProperty Name="NumberOfRows" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Shapes.Ellipse">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Stroke" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="StrokeThickness" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.PointerContactCommand">
+      <RootMethod Name="GetCommand" />
+      <RootMethod Name="SetCommand" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsWrapGrid">
+      <RootProperty Name="MaximumRowsOrColumns" />
+      <RootProperty Name="Orientation" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.SelectedToOpacityConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.ReverseSelectedToOpacityConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.SelectedIconToCustomUnicodeConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootProperty Name="HorizontalScrollMode" />
+      <RootProperty Name="VerticalScrollMode" />
+      <RootProperty Name="HorizontalScrollBarVisibility" />
+      <RootProperty Name="VerticalScrollBarVisibility" />
+      <RootProperty Name="ZoomMode" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="IsHorizontalRailEnabled" />
+      <RootProperty Name="IsVerticalRailEnabled" />
+      <RootProperty Name="IsDeferredScrollingEnabled" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="IsTabStop" />
+      <RootMethod Name="GetVerticalScrollMode" />
+      <RootMethod Name="SetVerticalScrollMode" />
+      <RootMethod Name="GetHorizontalScrollMode" />
+      <RootMethod Name="SetHorizontalScrollMode" />
+      <RootMethod Name="GetHorizontalScrollBarVisibility" />
+      <RootMethod Name="SetHorizontalScrollBarVisibility" />
+      <RootMethod Name="GetVerticalScrollBarVisibility" />
+      <RootMethod Name="SetVerticalScrollBarVisibility" />
+      <RootMethod Name="GetIsDeferredScrollingEnabled" />
+      <RootMethod Name="SetIsDeferredScrollingEnabled" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationPropertiesSubControls.PresetColorGrid">
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationPropertiesSubControls.Presets">
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Shapes.Shape">
+      <RootProperty Name="Fill" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationPropertyDialog" />
+    <RootType FullName="Windows.UI.Color" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.ToggleButton" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.AnnotationToolbar" />
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="AcceptsReturn" />
+      <RootProperty Name="IsTextPredictionEnabled" />
+      <RootProperty Name="InputScope" />
+      <RootProperty Name="MinWidth" />
+      <RootProperty Name="MinHeight" />
+      <RootProperty Name="Padding" />
+      <RootProperty Name="TextAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="IsHitTestVisible" />
+      <RootProperty Name="IsTabStop" />
+      <RootProperty Name="MaxLength" />
+      <RootProperty Name="SelectionLength" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Background" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.KeyUpCommand">
+      <RootMethod Name="GetCommand" />
+      <RootMethod Name="SetCommand" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.TextChangedCommand">
+      <RootMethod Name="GetCommand" />
+      <RootMethod Name="SetCommand" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Utilities.AuthorInputDialog" />
+    <RootType FullName="Windows.UI.Xaml.Thickness" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.TappedCommand">
+      <RootMethod Name="GetCommand" />
+      <RootMethod Name="SetCommand" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Viewbox">
+      <RootProperty Name="MaxWidth" />
+      <RootProperty Name="MaxHeight" />
+      <RootProperty Name="Child" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.LostfocusCommand">
+      <RootMethod Name="GetCommand" />
+      <RootMethod Name="SetCommand" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.KeyDownCommand">
+      <RootMethod Name="GetCommand" />
+      <RootMethod Name="SetCommand" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ClickablePageNumberIndicator" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.NotNullToVisibilityConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.NullToVisibilityConverter" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.NullToBooleanConverter" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.EasingDoubleKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="Value" />
+      <RootProperty Name="EasingFunction" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.QuadraticEase">
+      <RootProperty Name="EasingMode" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CommandBar">
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="PrimaryCommands" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Background" />
+      <RootEvent Name="PointerPressed" />
+      <RootEvent Name="PointerReleased" />
+      <RootEvent Name="PointerMoved" />
+      <RootEvent Name="PointerCaptureLost" />
+      <RootEvent Name="PointerCanceled" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Stretch" />
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.CropView" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.MagnifyingControl" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.MagnifyingToolbar">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.SymbolIcon">
+      <RootProperty Name="Symbol" />
+      <RootProperty Name="RenderTransformOrigin" />
+      <RootProperty Name="RenderTransform" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.MagnifyingHost" />
+    <RootType FullName="Windows.UI.Xaml.Media.RotateTransform">
+      <RootProperty Name="Angle" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.Outline" />
+    <RootType FullName="Windows.UI.Xaml.Controls.WebView">
+      <RootProperty Name="DefaultBackgroundColor" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ReflowView" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.Resources.ExtendedAppBarButton">
+      <RootProperty Name="LabelOpacity" />
+      <RootProperty Name="Label" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="IsCompact" />
+      <RootProperty Name="Icon" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.Resources.NoTouchPointerOverButton" />
+    <RootType FullName="Windows.UI.Xaml.Controls.GridViewItem" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RichEditBox">
+      <RootProperty Name="SelectionHighlightColor" />
+      <RootProperty Name="TextWrapping" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.FadeOutThemeAnimation">
+      <RootProperty Name="TargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.FadeInThemeAnimation">
+      <RootProperty Name="TargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DragItemThemeAnimation">
+      <RootProperty Name="TargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DropTargetItemThemeAnimation">
+      <RootProperty Name="TargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DragOverThemeAnimation">
+      <RootProperty Name="TargetName" />
+      <RootProperty Name="ToOffset" />
+      <RootProperty Name="Direction" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.NullExtension" />
+    <RootType FullName="System.Int32" />
+    <RootType FullName="Windows.UI.Xaml.Visibility" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.SwipeHintThemeAnimation">
+      <RootProperty Name="TargetName" />
+      <RootProperty Name="ToHorizontalOffset" />
+      <RootProperty Name="ToVerticalOffset" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.Resources.PDFViewCtrlNavButtonHost" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.Resources.SnapResizer" />
+    <RootType FullName="Windows.UI.Xaml.Shapes.Polygon">
+      <RootProperty Name="Points" />
+      <RootProperty Name="Fill" />
+      <RootProperty Name="StrokeThickness" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ThumbnailSlider" />
+    <RootType FullName="Windows.UI.Xaml.Controls.MenuFlyout">
+      <RootProperty Name="Items" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.MenuFlyoutItem">
+      <RootProperty Name="Command" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="IsEnabled" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.BindExtension">
+      <RootProperty Name="Mode" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.TransformGroup">
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.ScaleTransform">
+      <RootProperty Name="ScaleX" />
+      <RootProperty Name="ScaleY" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.SelectionChangedCommand">
+      <RootMethod Name="GetCommand" />
+      <RootMethod Name="SetCommand" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBarSeparator">
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Controls.ThumbnailViewer" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.ViewModels.Common.NotNullToBooleanConverter" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.TransitionCollection" />
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.EntranceThemeTransition">
+      <RootProperty Name="FromHorizontalOffset" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.RepositionThemeTransition" />
+    <RootType FullName="pdftron.PDF.Tools.Controls.UserBookmarkControl" />
+    <RootType FullName="pdftron.PDF.Tools.ToolSettings.FreeTextFontControl" />
+    <RootType FullName="Windows.UI.Xaml.Media.LinearGradientBrush">
+      <RootProperty Name="StartPoint" />
+      <RootProperty Name="EndPoint" />
+      <RootProperty Name="GradientStops" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.GradientStop">
+      <RootProperty Name="Offset" />
+      <RootProperty Name="Color" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.ColorPicker" />
+    <RootType FullName="pdftron.PDF.Tools.Utilities.ColorPickerSimple" />
+    <RootType FullName="pdftron.PDF.Tools.Utilities.NoteDialogBase">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.PasswordBox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.Utilities.NoteDialogPhone" />
+    <RootType FullName="pdftron.PDF.Tools.Utilities.NoteDialogWindows" />
+    <RootType FullName="pdftron.PDF.Tools.Utilities.PageNumberIndicator" />
+    <RootType FullName="pdftron.PDF.Tools.Utilities.PopupCommandMenubuttonHost" />
+    <RootType FullName="Windows.UI.Xaml.Controls.CheckBox">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="pdftron.PDF.Tools.SignatureDialog" />
+  </Roots.RootTypes>
+</Roots>

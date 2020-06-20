@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.iOS\\rakhrapdftron.iOS.csproj",
         "projectName": "rakhrapdftron.iOS",
         "projectPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.iOS\\rakhrapdftron.iOS.csproj",
-        "packagesPath": "C:\\Users\\manbir.rakhra\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\manbirrakhra\\.nuget\\packages\\",
         "outputPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
@@ -18,7 +18,7 @@
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\manbir.rakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manbirrakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,7 +27,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,7 +71,7 @@
         "projectUniqueName": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.csproj",
         "projectName": "rakhrapdftron",
         "projectPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.csproj",
-        "packagesPath": "C:\\Users\\manbir.rakhra\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\manbirrakhra\\.nuget\\packages\\",
         "outputPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -80,7 +79,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\manbir.rakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manbirrakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -89,7 +88,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -131,7 +129,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

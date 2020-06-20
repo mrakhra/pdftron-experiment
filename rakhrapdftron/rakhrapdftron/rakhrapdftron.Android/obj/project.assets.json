@@ -1934,8 +1934,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\manbir.rakhra\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {}
+    "C:\\Users\\manbirrakhra\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1943,15 +1943,15 @@
       "projectUniqueName": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.Android\\rakhrapdftron.Android.csproj",
       "projectName": "rakhrapdftron.Android",
       "projectPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.Android\\rakhrapdftron.Android.csproj",
-      "packagesPath": "C:\\Users\\manbir.rakhra\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\manbirrakhra\\.nuget\\packages\\",
       "outputPath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\manbir.rakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\manbirrakhra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1960,7 +1960,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

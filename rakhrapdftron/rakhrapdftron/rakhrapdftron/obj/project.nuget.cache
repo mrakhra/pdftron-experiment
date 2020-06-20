@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mM7TwsbNVvJKZdFwr9iBKChqu/JEBQbpIenss/4mOy9IXFvVb7iYMbvhWBewiye8tfrtc99bnvWpY8dHcV1ioQ==",
+  "dgSpecHash": "YCk5vvAByG9rlOiR/piIkQRl3fVw2lcZSEQAY9iZBtBgopXJGy9hGkYCq9ubUR7vrJeLhm3vb+ey+TwW+fpYxA==",
   "success": true,
   "projectFilePath": "C:\\projects\\pdftron-experiment\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron\\rakhrapdftron.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\manbir.rakhra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\manbirrakhra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\manbir.rakhra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\manbirrakhra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
