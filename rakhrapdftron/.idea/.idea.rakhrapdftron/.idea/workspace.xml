@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61e45afc-5f41-4f08-b6b2-a0f58c5b47f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/Renderers/ViewerPageRenderer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/MainPage.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/ViewerPage.xaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/rakhrapdftron.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/MainPage.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding>
+                <marker date="1592608513659" expanded="true" signature="559:590" ph="&lt;&lt;Button x:Name=&quot;openViewerButton&quot; Text=&quot;Open Viewer&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; Clicked=&quot;OnOpenViewerButtonClicked&quot; /&gt; &lt;Button x:Name=&quot;openAdvancedViewerButton&quot; Text=&quot;Open Advanced Viewer&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; Clicked=&quot;OnOpenAdvancedViewerButtonClicked&quot; /&gt;.../&gt;" />
+                <marker date="1592608513659" expanded="true" signature="559:613" ph="&lt;&lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;.../&gt;" />
+                <marker date="1592608513659" expanded="true" signature="559:640" ph="&lt;&lt;StackLayout&gt;&#10;            &lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;&#10;        &lt;/StackLayout&gt;.../&gt;" />
+                <marker date="1592608513659" expanded="true" signature="559:655" ph="&lt;&lt;ContentPage.Content&gt;&#10;        &lt;StackLayout&gt;&#10;            &lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;&#10;        &lt;/StackLayout&gt;&#10;    &lt;/ContentPage.Content&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/MainPage.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding>
+                <marker date="1592608837984" expanded="true" signature="6:163" ph="..." />
+                <marker date="1592608837984" expanded="true" signature="207:571" ph="{...}" />
+                <marker date="1592608837984" expanded="true" signature="311:569" ph="{...}" />
+                <marker date="1592608837984" expanded="true" signature="343:398" ph="{...}" />
+                <marker date="1592608837984" expanded="true" signature="539:563" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/App.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding>
+                <marker date="1592616815573" expanded="false" signature="6:117" ph="..." />
+                <marker date="1592616815573" expanded="true" signature="142:761" ph="{...}" />
+                <marker date="1592616815573" expanded="true" signature="187:759" ph="{...}" />
+                <marker date="1592616815573" expanded="true" signature="214:387" ph="{...}" />
+                <marker date="1592616815573" expanded="true" signature="606:626" ph="{...}" />
+                <marker date="1592616815573" expanded="true" signature="669:689" ph="{...}" />
+                <marker date="1592616815573" expanded="true" signature="733:753" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/ViewerPage.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding>
+                <marker date="1592608467380" expanded="true" signature="294:295" ph="&lt;&lt;StackLayout&gt;&#10;            &lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;&#10;        &lt;/StackLayout&gt;.../&gt;" />
+                <marker date="1592608467380" expanded="true" signature="294:310" ph="&lt;&lt;ContentPage.Content&gt;&#10;        &lt;StackLayout&gt;&#10;            &lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;&#10;        &lt;/StackLayout&gt;&#10;    &lt;/ContentPage.Content&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/ViewerPage.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1592608110810" expanded="true" signature="6:163" ph="..." />
+                <marker date="1592608110810" expanded="true" signature="207:410" ph="{...}" />
+                <marker date="1592608110810" expanded="true" signature="313:408" ph="{...}" />
+                <marker date="1592608110810" expanded="true" signature="347:402" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/rakhrapdftron.UWP.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/Renderers/ViewerPageRenderer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="688">
+              <caret line="164" column="51" lean-forward="true" selection-start-line="164" selection-start-column="51" selection-end-line="164" selection-end-column="51" />
+              <folding>
+                <marker date="1592617651835" expanded="true" signature="6:229" ph="..." />
+                <marker date="1592617651835" expanded="true" signature="6245:6256" ph="{...}" />
+                <marker date="1592617651835" expanded="true" signature="6245:6473" ph="{...}" />
+                <marker date="1592617651835" expanded="true" signature="6245:6475" ph="{...}" />
+                <marker date="1592617651835" expanded="true" signature="6321:6467" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/add.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/MainPage.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <marker date="1592607302307" expanded="false" signature="6:182" ph="..." />
+                <marker date="1592607302307" expanded="true" signature="213:1590" ph="{...}" />
+                <marker date="1592607302307" expanded="true" signature="220:354" ph="/* Learn more about making custom code visible in the Xamarin.Forms previewer ... */" />
+                <marker date="1592607302307" expanded="true" signature="438:1588" ph="{...}" />
+                <marker date="1592607302307" expanded="true" signature="561:748" ph="{...}" />
+                <marker date="1592607302307" expanded="true" signature="800:1582" ph="{...}" />
+                <marker date="1592607302307" expanded="true" signature="854:1269" ph="{...}" />
+                <marker date="1592607302307" expanded="true" signature="896:1255" ph="{...}" />
+                <marker date="1592607302307" expanded="true" signature="1366:1572" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/MenuPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/MainPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/MainPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/Renderers/ViewerPageRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/MainPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/ViewerPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/MainPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/ViewerPage.xaml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/rakhrapdftron.csproj" />
+        <option value="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/MainPage.xaml" />
+        <option value="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/MainPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/ViewerPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/ViewerPage.xaml" />
+        <option value="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/App.xaml.cs" />
+        <option value="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/rakhrapdftron.UWP.csproj" />
+        <option value="$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/Renderers/ViewerPageRenderer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.rakhrapdftron/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.rakhrapdftron/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-14" />
+    <option name="y" value="76" />
+    <option name="width" value="2072" />
+    <option name="height" value="1394" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PdftronViews" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PdftronViews" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MainPage.xaml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PdftronViews" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ViewerPage.xaml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App.xaml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="rakhrapdftron.UWP" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="rakhrapdftron" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="rakhrapdftron.UWP" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Renderers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="UWP.UWP Default">
+    <configuration name="UWP Default" type="UwpProject" factoryName="UWP">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <option name="IS_PASS_PARENT_ENVS" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e45afc-5f41-4f08-b6b2-a0f58c5b47f4" name="Default Changelist" comment="" />
+      <created>1592607721667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592607721667</updated>
+      <workItem from="1592607725702" duration="1884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1884000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1933" height="992" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="XAML Preview" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/MenuPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1592607293931" expanded="true" signature="40:1247" ph="&lt;&lt;StackLayout VerticalOptions=&quot;FillAndExpand&quot;&gt;&#10;        &lt;ListView x:Name=&quot;ListViewMenu&quot;&#10;                    HasUnevenRows=&quot;True&quot;&gt;&#10;            &lt;d:ListView.ItemsSource&gt;&#10;                &lt;x:Array Type=&quot;{x:Type x:String}&quot;&gt;&#10;                    &lt;x:String&gt;Item 1&lt;/x:String&gt;&#10;                    &lt;x:String&gt;Item 2&lt;/x:String&gt;&#10;                &lt;/x:Array&gt;&#10;            &lt;/d:ListView.ItemsSource&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;Grid Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; d:Text=&quot;{Binding .}&quot; FontSize=&quot;20&quot;/&gt;&#10;                        &lt;/Grid&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&#10;        &lt;/ListView&gt;&#10;    &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1592607293931" expanded="true" signature="446:1231" ph="&lt;&lt;ListView x:Name=&quot;ListViewMenu&quot;&#10;                    HasUnevenRows=&quot;True&quot;&gt;&#10;            &lt;d:ListView.ItemsSource&gt;&#10;                &lt;x:Array Type=&quot;{x:Type x:String}&quot;&gt;&#10;                    &lt;x:String&gt;Item 1&lt;/x:String&gt;&#10;                    &lt;x:String&gt;Item 2&lt;/x:String&gt;&#10;                &lt;/x:Array&gt;&#10;            &lt;/d:ListView.ItemsSource&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;Grid Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; d:Text=&quot;{Binding .}&quot; FontSize=&quot;20&quot;/&gt;&#10;                        &lt;/Grid&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&#10;        &lt;/ListView&gt;.../&gt;" />
+            <marker date="1592607293931" expanded="true" signature="500:1212" ph="&lt;&lt;d:ListView.ItemsSource&gt;&#10;                &lt;x:Array Type=&quot;{x:Type x:String}&quot;&gt;&#10;                    &lt;x:String&gt;Item 1&lt;/x:String&gt;&#10;                    &lt;x:String&gt;Item 2&lt;/x:String&gt;&#10;                &lt;/x:Array&gt;&#10;            &lt;/d:ListView.ItemsSource&gt; &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;Grid Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; d:Text=&quot;{Binding .}&quot; FontSize=&quot;20&quot;/&gt;&#10;                        &lt;/Grid&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;.../&gt;" />
+            <marker date="1592607293931" expanded="true" signature="586:822" ph="&lt;&lt;x:Array Type=&quot;{x:Type x:String}&quot;&gt;&#10;                    &lt;x:String&gt;Item 1&lt;/x:String&gt;&#10;                    &lt;x:String&gt;Item 2&lt;/x:String&gt;&#10;                &lt;/x:Array&gt;.../&gt;" />
+            <marker date="1592607293931" expanded="true" signature="627:784" ph="&lt;&lt;x:String&gt;Item 1&lt;/x:String&gt; &lt;x:String&gt;Item 2&lt;/x:String&gt;.../&gt;" />
+            <marker date="1592607293931" expanded="true" signature="835:1192" ph="&lt;&lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;Grid Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; d:Text=&quot;{Binding .}&quot; FontSize=&quot;20&quot;/&gt;&#10;                        &lt;/Grid&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;.../&gt;" />
+            <marker date="1592607293931" expanded="true" signature="875:1155" ph="&lt;&lt;ViewCell&gt;&#10;                        &lt;Grid Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; d:Text=&quot;{Binding .}&quot; FontSize=&quot;20&quot;/&gt;&#10;                        &lt;/Grid&gt;&#10;                    &lt;/ViewCell&gt;.../&gt;" />
+            <marker date="1592607293931" expanded="true" signature="910:1123" ph="&lt;&lt;Grid Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; d:Text=&quot;{Binding .}&quot; FontSize=&quot;20&quot;/&gt;&#10;                        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1592607293931" expanded="true" signature="945:1091" ph="&lt;&lt;Label Text=&quot;{Binding Title}&quot; d:Text=&quot;{Binding .}&quot; FontSize=&quot;20&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1592607293793" expanded="true" signature="40:1001" ph="&lt;&lt;MasterDetailPage.Master&gt;&#10;        &lt;views:MenuPage /&gt;&#10;    &lt;/MasterDetailPage.Master&gt; &lt;MasterDetailPage.Detail&gt;&#10;        &lt;NavigationPage&gt;&#10;            &lt;NavigationPage.Icon&gt;&#10;                &lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot;&gt;&#10;                    &lt;On Platform=&quot;iOS&quot; Value=&quot;tab_feed.png&quot;/&gt;&#10;                &lt;/OnPlatform&gt;&#10;            &lt;/NavigationPage.Icon&gt;&#10;            &lt;x:Arguments&gt;&#10;                &lt;views:ItemsPage /&gt;&#10;            &lt;/x:Arguments&gt;&#10;        &lt;/NavigationPage&gt;&#10;    &lt;/MasterDetailPage.Detail&gt;.../&gt;" />
+            <marker date="1592607293793" expanded="true" signature="467:550" ph="&lt;&lt;views:MenuPage /&gt;.../&gt;" />
+            <marker date="1592607293793" expanded="true" signature="556:976" ph="&lt;&lt;NavigationPage&gt;&#10;            &lt;NavigationPage.Icon&gt;&#10;                &lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot;&gt;&#10;                    &lt;On Platform=&quot;iOS&quot; Value=&quot;tab_feed.png&quot;/&gt;&#10;                &lt;/OnPlatform&gt;&#10;            &lt;/NavigationPage.Icon&gt;&#10;            &lt;x:Arguments&gt;&#10;                &lt;views:ItemsPage /&gt;&#10;            &lt;/x:Arguments&gt;&#10;        &lt;/NavigationPage&gt;.../&gt;" />
+            <marker date="1592607293793" expanded="true" signature="590:945" ph="&lt;&lt;NavigationPage.Icon&gt;&#10;                &lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot;&gt;&#10;                    &lt;On Platform=&quot;iOS&quot; Value=&quot;tab_feed.png&quot;/&gt;&#10;                &lt;/OnPlatform&gt;&#10;            &lt;/NavigationPage.Icon&gt; &lt;x:Arguments&gt;&#10;                &lt;views:ItemsPage /&gt;&#10;            &lt;/x:Arguments&gt;.../&gt;" />
+            <marker date="1592607293793" expanded="true" signature="619:830" ph="&lt;&lt;OnPlatform x:TypeArguments=&quot;FileImageSource&quot;&gt;&#10;                    &lt;On Platform=&quot;iOS&quot; Value=&quot;tab_feed.png&quot;/&gt;&#10;                &lt;/OnPlatform&gt;.../&gt;" />
+            <marker date="1592607293793" expanded="true" signature="657:795" ph="&lt;&lt;On Platform=&quot;iOS&quot; Value=&quot;tab_feed.png&quot;/&gt;.../&gt;" />
+            <marker date="1592607293793" expanded="true" signature="843:919" ph="&lt;&lt;views:ItemsPage /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/MainPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <marker date="1592607302307" expanded="false" signature="6:182" ph="..." />
+            <marker date="1592607302307" expanded="true" signature="213:1590" ph="{...}" />
+            <marker date="1592607302307" expanded="true" signature="220:354" ph="/* Learn more about making custom code visible in the Xamarin.Forms previewer ... */" />
+            <marker date="1592607302307" expanded="true" signature="438:1588" ph="{...}" />
+            <marker date="1592607302307" expanded="true" signature="561:748" ph="{...}" />
+            <marker date="1592607302307" expanded="true" signature="800:1582" ph="{...}" />
+            <marker date="1592607302307" expanded="true" signature="854:1269" ph="{...}" />
+            <marker date="1592607302307" expanded="true" signature="896:1255" ph="{...}" />
+            <marker date="1592607302307" expanded="true" signature="1366:1572" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/rakhrapdftron.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <marker date="1592608513659" expanded="true" signature="559:590" ph="&lt;&lt;Button x:Name=&quot;openViewerButton&quot; Text=&quot;Open Viewer&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; Clicked=&quot;OnOpenViewerButtonClicked&quot; /&gt; &lt;Button x:Name=&quot;openAdvancedViewerButton&quot; Text=&quot;Open Advanced Viewer&quot; HorizontalOptions=&quot;Center&quot; VerticalOptions=&quot;Center&quot; Clicked=&quot;OnOpenAdvancedViewerButtonClicked&quot; /&gt;.../&gt;" />
+            <marker date="1592608513659" expanded="true" signature="559:613" ph="&lt;&lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;.../&gt;" />
+            <marker date="1592608513659" expanded="true" signature="559:640" ph="&lt;&lt;StackLayout&gt;&#10;            &lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;&#10;        &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1592608513659" expanded="true" signature="559:655" ph="&lt;&lt;ContentPage.Content&gt;&#10;        &lt;StackLayout&gt;&#10;            &lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;&#10;        &lt;/StackLayout&gt;&#10;    &lt;/ContentPage.Content&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/ViewerPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1592608467380" expanded="true" signature="294:295" ph="&lt;&lt;StackLayout&gt;&#10;            &lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;&#10;        &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1592608467380" expanded="true" signature="294:310" ph="&lt;&lt;ContentPage.Content&gt;&#10;        &lt;StackLayout&gt;&#10;            &lt;Label Text=&quot;Hello, world!&quot;&#10;                   VerticalOptions=&quot;CenterAndExpand&quot;&#10;                   HorizontalOptions=&quot;CenterAndExpand&quot; /&gt;&#10;        &lt;/StackLayout&gt;&#10;    &lt;/ContentPage.Content&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/MainPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <marker date="1592608837984" expanded="true" signature="6:163" ph="..." />
+            <marker date="1592608837984" expanded="true" signature="207:571" ph="{...}" />
+            <marker date="1592608837984" expanded="true" signature="311:569" ph="{...}" />
+            <marker date="1592608837984" expanded="true" signature="343:398" ph="{...}" />
+            <marker date="1592608837984" expanded="true" signature="539:563" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1592616815573" expanded="false" signature="6:117" ph="..." />
+            <marker date="1592616815573" expanded="true" signature="142:761" ph="{...}" />
+            <marker date="1592616815573" expanded="true" signature="187:759" ph="{...}" />
+            <marker date="1592616815573" expanded="true" signature="214:387" ph="{...}" />
+            <marker date="1592616815573" expanded="true" signature="606:626" ph="{...}" />
+            <marker date="1592616815573" expanded="true" signature="669:689" ph="{...}" />
+            <marker date="1592616815573" expanded="true" signature="733:753" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron/Views/PdftronViews/ViewerPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1592608110810" expanded="true" signature="6:163" ph="..." />
+            <marker date="1592608110810" expanded="true" signature="207:410" ph="{...}" />
+            <marker date="1592608110810" expanded="true" signature="313:408" ph="{...}" />
+            <marker date="1592608110810" expanded="true" signature="347:402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/rakhrapdftron.UWP.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/add.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rakhrapdftron/rakhrapdftron.UWP/Renderers/ViewerPageRenderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="164" column="51" lean-forward="true" selection-start-line="164" selection-start-column="51" selection-end-line="164" selection-end-column="51" />
+          <folding>
+            <marker date="1592617651835" expanded="true" signature="6:229" ph="..." />
+            <marker date="1592617651835" expanded="true" signature="6245:6256" ph="{...}" />
+            <marker date="1592617651835" expanded="true" signature="6245:6473" ph="{...}" />
+            <marker date="1592617651835" expanded="true" signature="6245:6475" ph="{...}" />
+            <marker date="1592617651835" expanded="true" signature="6321:6467" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

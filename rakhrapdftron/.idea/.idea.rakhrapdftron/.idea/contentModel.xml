@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.arch.lifecycle.runtime\1.1.1.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.arch.lifecycle.viewmodel\1.1.1.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.support.animated.vector.drawable\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.support.compat\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.support.coordinaterlayout\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.support.design\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.support.media.compat\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.support.transition\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.support.v7.appcompat\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.support.v7.recyclerview\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\Microsoft\Xamarin\NuGet\xamarin.android.support.versionedparcelable\28.0.0.3\proguard\monoandroid90" t="Include">
+      <e p="proguard.txt" t="Include" />
+    </e>
+    <e p="C:\projects\pdftron-experiment\rakhrapdftron" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="rakhrapdftron\rakhrapdftron" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="HomeMenuItem.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="rakhrapdftron.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="rakhrapdftron.csproj" t="IncludeRecursive" />
+        <e p="Services" t="Include">
+          <e p="IDataStore.cs" t="Include" />
+          <e p="MockDataStore.cs" t="Include" />
+        </e>
+        <e p="ViewModels" t="Include">
+          <e p="AboutViewModel.cs" t="Include" />
+          <e p="BaseViewModel.cs" t="Include" />
+          <e p="ItemDetailViewModel.cs" t="Include" />
+          <e p="ItemsViewModel.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="AboutPage.xaml" t="Include" />
+          <e p="AboutPage.xaml.cs" t="Include" />
+          <e p="ItemDetailPage.xaml" t="Include" />
+          <e p="ItemDetailPage.xaml.cs" t="Include" />
+          <e p="ItemsPage.xaml" t="Include" />
+          <e p="ItemsPage.xaml.cs" t="Include" />
+          <e p="MainPage.xaml" t="Include" />
+          <e p="MainPage.xaml.cs" t="Include" />
+          <e p="MenuPage.xaml" t="Include" />
+          <e p="MenuPage.xaml.cs" t="Include" />
+          <e p="NewItemPage.xaml" t="Include" />
+          <e p="NewItemPage.xaml.cs" t="Include" />
+          <e p="PdftronViews" t="Include">
+            <e p="MainPage.xaml" t="Include" />
+            <e p="MainPage.xaml.cs" t="Include" />
+            <e p="ViewerPage.xaml" t="Include" />
+            <e p="ViewerPage.xaml.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="rakhrapdftron\rakhrapdftron.Android" t="IncludeRecursive">
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="rakhrapdftron.Android.csproj" t="IncludeRecursive" />
+        <e p="Resources" t="Include">
+          <e p="AboutResources.txt" t="Include" />
+          <e p="drawable" t="Include">
+            <e p="xamarin_logo.png" t="Include" />
+          </e>
+          <e p="layout" t="Include">
+            <e p="Tabbar.xml" t="Include" />
+            <e p="Toolbar.xml" t="Include" />
+          </e>
+          <e p="mipmap-anydpi-v26" t="Include">
+            <e p="icon.xml" t="Include" />
+            <e p="icon_round.xml" t="Include" />
+          </e>
+          <e p="mipmap-hdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-mdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-xhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-xxhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="mipmap-xxxhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+            <e p="launcher_foreground.png" t="Include" />
+          </e>
+          <e p="Resource.designer.cs" t="Include" />
+          <e p="values" t="Include">
+            <e p="colors.xml" t="Include" />
+            <e p="styles.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="rakhrapdftron\rakhrapdftron.iOS" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="Assets.xcassets" t="Include">
+          <e p="AppIcon.appiconset" t="Include">
+            <e p="Contents.json" t="Include" />
+            <e p="Icon1024.png" t="Include" />
+            <e p="Icon120.png" t="Include" />
+            <e p="Icon152.png" t="Include" />
+            <e p="Icon167.png" t="Include" />
+            <e p="Icon180.png" t="Include" />
+            <e p="Icon20.png" t="Include" />
+            <e p="Icon29.png" t="Include" />
+            <e p="Icon40.png" t="Include" />
+            <e p="Icon58.png" t="Include" />
+            <e p="Icon60.png" t="Include" />
+            <e p="Icon76.png" t="Include" />
+            <e p="Icon80.png" t="Include" />
+            <e p="Icon87.png" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entitlements.plist" t="Include" />
+        <e p="Info.plist" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="rakhrapdftron.iOS.csproj" t="IncludeRecursive" />
+        <e p="Resources" t="Include">
+          <e p="LaunchScreen.storyboard" t="Include" />
+          <e p="tab_about.png" t="Include" />
+          <e p="tab_about@2x.png" t="Include" />
+          <e p="tab_about@3x.png" t="Include" />
+          <e p="tab_feed.png" t="Include" />
+          <e p="tab_feed@2x.png" t="Include" />
+          <e p="tab_feed@3x.png" t="Include" />
+          <e p="xamarin_logo.png" t="Include" />
+          <e p="xamarin_logo@2x.png" t="Include" />
+          <e p="xamarin_logo@3x.png" t="Include" />
+        </e>
+      </e>
+      <e p="rakhrapdftron\rakhrapdftron.UWP" t="IncludeRecursive">
+        <e p="add.png" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="Assets" t="Include">
+          <e p="LargeTile.scale-100.png" t="Include" />
+          <e p="LargeTile.scale-200.png" t="Include" />
+          <e p="LargeTile.scale-400.png" t="Include" />
+          <e p="SmallTile.scale-100.png" t="Include" />
+          <e p="SmallTile.scale-200.png" t="Include" />
+          <e p="SmallTile.scale-400.png" t="Include" />
+          <e p="SplashScreen.scale-100.png" t="Include" />
+          <e p="SplashScreen.scale-200.png" t="Include" />
+          <e p="SplashScreen.scale-400.png" t="Include" />
+          <e p="Square150x150Logo.scale-100.png" t="Include" />
+          <e p="Square150x150Logo.scale-200.png" t="Include" />
+          <e p="Square150x150Logo.scale-400.png" t="Include" />
+          <e p="Square44x44Logo.altform-unplated_targetsize-16.png" t="Include" />
+          <e p="Square44x44Logo.altform-unplated_targetsize-256.png" t="Include" />
+          <e p="Square44x44Logo.altform-unplated_targetsize-48.png" t="Include" />
+          <e p="Square44x44Logo.scale-100.png" t="Include" />
+          <e p="Square44x44Logo.scale-200.png" t="Include" />
+          <e p="Square44x44Logo.scale-400.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-16.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-256.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-48.png" t="Include" />
+          <e p="StoreLogo.scale-100.png" t="Include" />
+          <e p="StoreLogo.scale-200.png" t="Include" />
+          <e p="StoreLogo.scale-400.png" t="Include" />
+          <e p="Wide310x150Logo.scale-100.png" t="Include" />
+          <e p="Wide310x150Logo.scale-200.png" t="Include" />
+          <e p="Wide310x150Logo.scale-400.png" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cancel.png" t="Include" />
+        <e p="MainPage.xaml" t="Include" />
+        <e p="MainPage.xaml.cs" t="Include" />
+        <e p="Microsoft.UI.Xaml" t="Include">
+          <e p="DensityStyles" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Package.appxmanifest" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Default.rd.xml" t="Include" />
+        </e>
+        <e p="rakhrapdftron.UWP.csproj" t="IncludeRecursive" />
+        <e p="renderers" t="Include">
+          <e p="ViewerPageRenderer.cs" t="Include" />
+        </e>
+        <e p="save.png" t="Include" />
+        <e p="xamarin_logo.png" t="Include" />
+      </e>
+      <e p="rakhrapdftron.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\manbir.rakhra\.nuget\packages\Microsoft.UI.Xaml\2.1.190606001\build\DensityStyles\Compact.xaml" t="Include" />
+    <e p="C:\Users\manbir.rakhra\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\manbir.rakhra\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_rakhrapdftron.-31053182.00" t="ExcludeRecursive" />
+  </component>
+</project>

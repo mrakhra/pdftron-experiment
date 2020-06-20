@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="pdftron.PDF.Tools" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="pdftron.PDF.Tools">
+				<NamedResource name="pdftron.PDF.Tools.xr.xml" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/pdftron.PDF.Tools.xr.xml">
+					<Candidate type="Path">
+						<Value>pdftron.PDF.Tools\pdftron.PDF.Tools.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Controls">
+					<NamedResource name="AnnotationCommandBar.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationCommandBar.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnnotationList.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationList.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnnotationPropertyDialog.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationPropertyDialog.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AnnotationToolbar.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationToolbar.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="AuthorInputDialog.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AuthorInputDialog.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ClickablePageNumberIndicator.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/ClickablePageNumberIndicator.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CropView.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/CropView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MagnifyingControl.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/MagnifyingControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MagnifyingHost.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/MagnifyingHost.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MagnifyingToolbar.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/MagnifyingToolbar.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Outline.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/Outline.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ReflowView.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/ReflowView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThumbnailSlider.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/ThumbnailSlider.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ThumbnailsView.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/ThumbnailsView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="UserBookmarkControl.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/UserBookmarkControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="AnnotationPropertiesSubControls">
+						<NamedResource name="AddNew.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationPropertiesSubControls/AddNew.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="AnnotationPreviewControl.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationPropertiesSubControls/AnnotationPreviewControl.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ButtonControl.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationPropertiesSubControls/ButtonControl.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Custom.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationPropertiesSubControls/Custom.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="CustomColorGrid.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationPropertiesSubControls/CustomColorGrid.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="IconControl.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationPropertiesSubControls/IconControl.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="PresetColorGrid.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationPropertiesSubControls/PresetColorGrid.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Presets.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/AnnotationPropertiesSubControls/Presets.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Resources">
+						<NamedResource name="ControlStyles.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/Resources/ControlStyles.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="custom.ttf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/Resources/custom.ttf">
+							<Candidate type="Path">
+								<Value>pdftron.PDF.Tools\Controls\Resources\custom.ttf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="DefaultFileIcon.png" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/Resources/DefaultFileIcon.png">
+							<Candidate type="Path">
+								<Value>pdftron.PDF.Tools\Controls\Resources\DefaultFileIcon.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="PDFViewCtrlNavButtonHost.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/Resources/PDFViewCtrlNavButtonHost.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="SnapResizer.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/Resources/SnapResizer.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ToolPalette.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Controls/Resources/ToolPalette.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Icons">
+					<NamedResource name="StickyIcons.pdf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Icons/StickyIcons.pdf">
+						<Candidate type="Path">
+							<Value>pdftron.PDF.Tools\Icons\StickyIcons.pdf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ToolSettings">
+					<NamedResource name="FreeTextFontControl.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/ToolSettings/FreeTextFontControl.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Utilities">
+					<NamedResource name="ColorPicker.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Utilities/ColorPicker.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ColorPickerSimple.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Utilities/ColorPickerSimple.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NoteDialogPhone.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Utilities/NoteDialogPhone.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NoteDialogWindows.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Utilities/NoteDialogWindows.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PageNumberIndicator.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Utilities/PageNumberIndicator.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PopupCommandMenubuttonHost.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Utilities/PopupCommandMenubuttonHost.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SignatureDialog.xbf" uri="ms-resource://pdftron.PDF.Tools/Files/pdftron.PDF.Tools/Utilities/SignatureDialog.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="pdftron.PDF.Tools">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="pdftron_Controls_AnnotationList_Page" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotationList_Page">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Page {0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_AnnotationProperties_FontCombo_MoreItem" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotationProperties_FontCombo_MoreItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>More fonts...</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_DefaultBookmarkFormat" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_DefaultBookmarkFormat">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Page {0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_Outline_DefaultHeader" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_Outline_DefaultHeader">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Root</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_Reflow_WorkingOnPage" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_Reflow_WorkingOnPage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Reflowing Page {0} ...</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_Thickness_Units" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_Thickness_Units">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>pt</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_ThumbnailsView_Delete_Error_Info" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Delete_Error_Info">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cannot remove all of the pages</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_ThumbnailsView_Delete_Error_Title" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Delete_Error_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>There will be no pages left in this PDF. Deleting cannot be done. </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_ThumbnailsView_Delete_Message_Cancel" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Delete_Message_Cancel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cancel</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_ThumbnailsView_Delete_Message_Confirm" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Delete_Message_Confirm">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Ok</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_ThumbnailsView_Delete_Multiple_Message_Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Delete_Multiple_Message_Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Are you sure you want to delete these {0} pages? This cannot be undone.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_ThumbnailsView_Delete_Multiple_Message_Title" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Delete_Multiple_Message_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete these pages?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_ThumbnailsView_Delete_Single_Message_Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Delete_Single_Message_Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Are you sure you want to delete this page? This cannot be undone.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Controls_ThumbnailsView_Delete_Single_Message_Title" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Delete_Single_Message_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete this page?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Arrow" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Arrow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Arrow</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Ellipse" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Ellipse">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Ellipse</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Image" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Image">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add Image</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Ink" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Ink">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Ink</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Line" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Line">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Line</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Marker" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Marker">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Marker</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_MySignature" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_MySignature">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>My Signature</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_NewSignature" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_NewSignature">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>New Signature</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Note" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Note">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Note</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Rectangle" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Rectangle">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rectangle</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Signature" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Signature">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Signature</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Stamper_Camera" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Stamper_Camera">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Camera</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Stamper_FilePicker" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Stamper_FilePicker">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>From Files</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_CreateOption_Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_CreateOption_Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Text</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditFontSize_Format" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditFontSize_Format">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOpacity_Format" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOpacity_Format">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0}%</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOptiob_Style" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOptiob_Style">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Style</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_AddNote" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_AddNote">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add note</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Color" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Color">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Color</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_CopyToClipboard" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_CopyToClipboard">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Copy to Clipboard</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Delete" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Delete">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Done" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Done">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Done</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_EditText" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_EditText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Edit Text</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_FillColor" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_FillColor">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Fill Color</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Flatten" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Flatten">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Flatten</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_FontSize" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_FontSize">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Font Size</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Group" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Group">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Group</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Note" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Note">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Note</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Opacity" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Opacity">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Opacity</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Rotate" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Rotate">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rotate</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_StrokeColor" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_StrokeColor">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Stroke Color</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_TextColor" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_TextColor">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Text Color</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_TextMarkupType" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_TextMarkupType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Type</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Thickness" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Thickness">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Thickness</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_Ungroup" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_Ungroup">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Ungroup</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditOption_ViewNote" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditOption_ViewNote">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>View note</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_EditThickness_Format" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_EditThickness_Format">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} pt</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_ExistingSignatureOptions_Delete" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_ExistingSignatureOptions_Delete">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_Group_Flatten_Dialog_Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Group_Flatten_Dialog_Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Flattening the group will make it a permanent part of the PDF, so that it cannot be modified or removed by standard viewing software. This cannot be undone.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_Group_Flatten_Dialog_Title" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Group_Flatten_Dialog_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Flatten This Group?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_NoteDialog_Cancel" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_NoteDialog_Cancel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cancel</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_NoteDialog_Save" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_NoteDialog_Save">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Save</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_NoteDialog_Title" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_NoteDialog_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Note</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_PageNumberIndocator_FormatWithoutTotal" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_PageNumberIndocator_FormatWithoutTotal">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_PageNumberIndocator_FormatWithTotal" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_PageNumberIndocator_FormatWithTotal">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} of {1}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_SignatureDialog_Delete_Info" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Delete_Info">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>This will delete the current signature. Are you sure you wish to proceed?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_SignatureDialog_Delete_No" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Delete_No">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_SignatureDialog_Delete_Title" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Delete_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Delete Signature?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_SignatureDialog_Delete_Yes" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Delete_Yes">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_SignatureDialog_Overwrite_Info" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Overwrite_Info">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Are you sure you want to overwrite the current signature with a new one?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_SignatureDialog_Overwrite_No" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Overwrite_No">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_SignatureDialog_Overwrite_Title" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Overwrite_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Overwrite Signature?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_SignatureDialog_Overwrite_Yes" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Overwrite_Yes">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Yes</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_Signature_Flatten_Dialog_Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Signature_Flatten_Dialog_Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Flattening the signature will make it a permanent part of the PDF, so that it cannot be modified or removed by standard viewing software. This cannot be undone.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_Signature_Flatten_Dialog_Title" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Signature_Flatten_Dialog_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Flatten This Signature?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_Stamper_Flatten_Dialog_Cancel" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Stamper_Flatten_Dialog_Cancel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cancel</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_Stamper_Flatten_Dialog_Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Stamper_Flatten_Dialog_Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Flattening the image will make it a permanent part of the PDF, so that it cannot be modified or removed by standard viewing software. This cannot be undone.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_Stamper_Flatten_Dialog_Flatten" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Stamper_Flatten_Dialog_Flatten">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Flatten</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_Stamper_Flatten_Dialog_Title" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Stamper_Flatten_Dialog_Title">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Flatten This Image?</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_Stamper_PickFileConfirm" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Stamper_PickFileConfirm">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select Image</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_TextAnnotationFonts_NoFontsError" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextAnnotationFonts_NoFontsError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>At least one font needs to be selected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_TextSelect_Option_Copy" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextSelect_Option_Copy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Copy</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_TextSelect_Option_Highlight" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextSelect_Option_Highlight">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Highlight</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_TextSelect_Option_Share" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextSelect_Option_Share">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Share</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_TextSelect_Option_Speech" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextSelect_Option_Speech">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Read</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_TextSelect_Option_Squiggly" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextSelect_Option_Squiggly">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Squiggly</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_TextSelect_Option_Strikeout" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextSelect_Option_Strikeout">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Strikeout</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pdftron_Tool_TextSelect_Option_Underline" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextSelect_Option_Underline">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Underline</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="CropView_AllPageCrop">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/CropView_AllPageCrop/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Use on All Pages</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="CropView_AllPagesMessage">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/CropView_AllPagesMessage/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>This crop box will be used for all pages. Click on Apply Crop to apply.</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="CropView_ApplyCrop">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/CropView_ApplyCrop/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Apply Crop</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="CropView_BackButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/CropView_BackButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Back</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="CropView_EvenPageCrop">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/CropView_EvenPageCrop/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Use on Even Pages</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="CropView_EvenPagesMessage">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/CropView_EvenPagesMessage/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>This crop box will be used for even pages. Click on Apply Crop to apply.</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="CropView_OddPageCrop">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/CropView_OddPageCrop/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Use on Odd Pages</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="CropView_OddPagesMessage">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/CropView_OddPagesMessage/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>This crop box will be used for odd pages. Click on Apply Crop to apply.</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="CropView_Title">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/CropView_Title/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Cropping</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotationList_NoAnnotations">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotationList_NoAnnotations/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>This document does not contain any annotations.</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotationProperties_Custom">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotationProperties_Custom/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Advanced</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotationProperties_FontCombo">
+					<NamedResource name="PlaceholderText" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotationProperties_FontCombo/PlaceholderText">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Pick a font</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotationProperties_Presets">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotationProperties_Presets/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Basic</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotArrowButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotArrowButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Arrow</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotArrowButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotArrowButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Arrow</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotCloudButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotCloudButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Cloud</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotCloudButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotCloudButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Cloud</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotEraserButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotEraserButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Eraser</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotEraserButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotEraserButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Eraser</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotGroupCreateButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotGroupCreateButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>MultiSelect</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotGroupCreateButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotGroupCreateButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>MultiSelect</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotHighlightButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotHighlightButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Highlight</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotHighlightButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotHighlightButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Highlight</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotInkButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotInkButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Ink</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotInkButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotInkButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Ink</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotLineButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotLineButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Line</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotLineButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotLineButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Line</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotMarkerButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotMarkerButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Marker</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotMarkerButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotMarkerButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Marker</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotOvalButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotOvalButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Oval</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotOvalButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotOvalButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Oval</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotPanButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotPanButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Pan</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotPanButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotPanButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Pan</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotPolygonButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotPolygonButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Polygon</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotPolygonButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotPolygonButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Polygon</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotPolylineButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotPolylineButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Polyline</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotPolylineButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotPolylineButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Polyline</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotSignatureButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotSignatureButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Signature</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotSignatureButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotSignatureButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Signature</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotSquareButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotSquareButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Square</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotSquareButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotSquareButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Square</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotSquigglyButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotSquigglyButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Squiggly</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotSquigglyButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotSquigglyButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Squiggly</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotStamperButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotStamperButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Stamper</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotStamperButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotStamperButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Stamper</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotStickyButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotStickyButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Sticky</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotStickyButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotStickyButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Sticky</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotStrikeoutButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotStrikeoutButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Strikeout</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotStrikeoutButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotStrikeoutButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Strikeout</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotTextBoxButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotTextBoxButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Text Box</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotTextBoxButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotTextBoxButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Text Box</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotUnderlineButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotUnderlineButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Underline</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_AnnotUnderlineButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_AnnotUnderlineButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Underline</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_CloseButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_CloseButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Close</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_CloseButton_ToolTip">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_CloseButton_ToolTip/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Close</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_FreeHandOption_Cancel">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_FreeHandOption_Cancel/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Cancel</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AnnotToolbar_FreeHandOption_Save">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AnnotToolbar_FreeHandOption_Save/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Save</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AuthorDialog_CancelButton">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AuthorDialog_CancelButton/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Don't Use Author</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AuthorDialog_MainInfo">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AuthorDialog_MainInfo/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Would you like to add an author name to this and any future annotations? Please enter your name below and select OK. The Author name can be changed at any time in the App's settings dialog.</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AuthorDialog_OkButton">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AuthorDialog_OkButton/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Ok</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AuthorDialog_SecondaryInfo">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AuthorDialog_SecondaryInfo/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>If you select Don't Use Author, you will not be asked about this again.</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_AuthorDialog_TextInputInfo">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_AuthorDialog_TextInputInfo/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Author:</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_Outline_NoBookmarks">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_Outline_NoBookmarks/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>This document does not contain an outline.</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_ThumbnailsView_ClearSelection">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_ClearSelection/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Clear Selection</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_ThumbnailsView_ClearSelectionShort">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_ClearSelectionShort/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Clear</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_ThumbnailsView_Delete">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Delete/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Delete</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_ThumbnailsView_DoneEditing">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_DoneEditing/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Done</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_ThumbnailsView_Edit">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Edit/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Edit</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_ThumbnailsView_Exit">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_Exit/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Exit</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_ThumbnailsView_SelectedLabel">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_ThumbnailsView_SelectedLabel/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Selected:</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_UserBookmarksPopup_Delete">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_UserBookmarksPopup_Delete/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Delete</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_UserBookmarksPopup_Rename">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_UserBookmarksPopup_Rename/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Rename</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_UserBookmarks_Add">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_UserBookmarks_Add/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Add</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_UserBookmarks_Delete">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_UserBookmarks_Delete/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Delete</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_UserBookmarks_DoneEditing">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_UserBookmarks_DoneEditing/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Done</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_UserBookmarks_Edit">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_UserBookmarks_Edit/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Edit</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Controls_UserBookmarks_Rename">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Controls_UserBookmarks_Rename/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Rename</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_ColorPicker_Empty">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_ColorPicker_Empty/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Empty</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_SignatureDialog_AddSignature">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_AddSignature/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Add Signature</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_SignatureDialog_Cancel">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Cancel/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Cancel</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_SignatureDialog_Clear">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_Clear/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Clear</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_SignatureDialog_MakeDefaultSignature_CheckBox">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_MakeDefaultSignature_CheckBox/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Make Default Signature</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_SignatureDialog_SignHere">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_SignHere/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Sign Here</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_SignatureDialog_UseMySignature">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_SignatureDialog_UseMySignature/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Use My Signature</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_Sticky_CancelButton">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Sticky_CancelButton/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Cancel</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_Sticky_CloseButton">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Sticky_CloseButton/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Close</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_Sticky_DeleteButton">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Sticky_DeleteButton/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Delete</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_Sticky_OkButton">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_Sticky_OkButton/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Save</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_TextAnnotationFonts_Header">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextAnnotationFonts_Header/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Text annotation fonts</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="pdftron_Tool_TextAnnotationFonts_OKButton">
+					<NamedResource name="Content" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/pdftron_Tool_TextAnnotationFonts_OKButton/Content">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Save list</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_AppBarButton_Delete">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_AppBarButton_Delete/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Delete</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_AppBarButton_Delete2">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_AppBarButton_Delete2/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Delete</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_AppBarButton_Export">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_AppBarButton_Export/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Export PDF</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_AppBarButton_Export2">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_AppBarButton_Export2/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Export PDF</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_AppBarButton_Rotate">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_AppBarButton_Rotate/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Rotate</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_AppBarButton_Rotate2">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_AppBarButton_Rotate2/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Rotate</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_BackButton">
+					<NamedResource name="Label" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_BackButton/Label">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Back</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_FabButton_AddImage">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_FabButton_AddImage/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Add Image</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_FabButton_AddPage">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_FabButton_AddPage/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Add Page</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_FabButton_AddPDF">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_FabButton_AddPDF/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Add PDF</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_FabButton_InsertImage">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_FabButton_InsertImage/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Insert Image</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_FabButton_InsertPage">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_FabButton_InsertPage/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Insert Page</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_FabButton_InsertPDF">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_FabButton_InsertPDF/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Insert PDF</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ThumbnailsView_Title">
+					<NamedResource name="Text" uri="ms-resource://pdftron.PDF.Tools/pdftron.PDF.Tools/Resources/ThumbnailsView_Title/Text">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+							<Value>Thumbnails</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
